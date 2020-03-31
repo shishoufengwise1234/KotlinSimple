@@ -1,33 +1,16 @@
 package com.kotlin.simple;
 
+import com.kotlin.simple.simple2.NPECheck;
+
 public class JavaMain {
 
     public static void main(String[] args){
         System.out.println("Hello Java");
 
-//        switch (s){
-//
-//            case "":
-//
-//        }
+        NPECheck npeCheck = new NPECheck();
+        System.out.println(" hashCode = "+npeCheck.parseInt("23").hashCode());
 
-//        int a = 2;
-//        short b = 3;
-//        char c = '3';
-//        long d = 3;
-//        //double
-//        //float
-//        //boolean
-//        byte e = 4;
-//        String f = "c";
-//
-//        switch (f){
-//            case 3:
-//                break;
-//        }
 
-//        int w = 3;
-//        if (w instanceof )
     }
 
 
