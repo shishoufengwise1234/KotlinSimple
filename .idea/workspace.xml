@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8b3850-0fff-4632-8305-625470c7c1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple2/SamMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/AdornFiles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/Control3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/DataClassFiles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/EnumClassFiles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/InlineClassFiles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/NestedClassFiles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/OnViewListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/SealedClassFiles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/Simple3JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple3/Simple3Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinSimpleCodes/META-INF/KotlinSimpleCodes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinSimpleCodes/META-INF/KotlinSimpleCodes.kotlin_module" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,26 +30,33 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/JavaMain.java">
+        <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/Simple3Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="378">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/EnumClassFiles.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="e#35#119#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple2/SamMain.java">
+        <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/InlineClassFiles.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#1243#1244#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="288">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -49,8 +66,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -74,10 +91,20 @@
         <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple2/Simple3.kt" />
         <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple2/Simple2JavaMain.java" />
         <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple2/Simple2Main.kt" />
-        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple2/ClassFiles.kt" />
-        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple2/InterfaceFiles.kt" />
         <option value="$PROJECT_DIR$/src/com/kotlin/simple/JavaMain.java" />
         <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple2/SamMain.java" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple2/ClassFiles.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple2/InterfaceFiles.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/Simple3JavaMain.java" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/Control3.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/AdornFiles.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/DataClassFiles.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/SealedClassFiles.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/OnViewListener.java" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/NestedClassFiles.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/EnumClassFiles.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/Simple3Main.kt" />
+        <option value="$PROJECT_DIR$/src/com/kotlin/simple/simple3/InlineClassFiles.kt" />
       </list>
     </option>
   </component>
@@ -94,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,11 +152,39 @@
               <item name="simple" type="462c0819:PsiDirectoryNode" />
               <item name="simple2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="KotlinSimpleCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KotlinSimpleCodes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
+              <item name="simple3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinSimpleCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="KotlinSimpleCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="KotlinSimpleCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+              <item name="kotlin-stdlib.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KotlinSimpleCodes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="KotlinJavaRuntime" type="70bed36:NamedLibraryElementNode" />
+              <item name="kotlin-stdlib.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -162,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SamMain">
+  <component name="RunManager" selected="Kotlin.com.kotlin.simple.simple3.Simple3MainKt">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -171,14 +227,6 @@
     </configuration>
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.simple.JavaMain" />
-      <module name="KotlinSimpleCodes" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -237,6 +285,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.kotlin.simple.simple3.Simple3MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinSimpleCodes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.simple.simple3.Simple3MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -247,19 +308,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JavaMain" />
       <item itemvalue="Application.Simple2JavaMain" />
+      <item itemvalue="Application.SamMain" />
       <item itemvalue="Kotlin.com.kotlin.simple.KotlinMainKt" />
       <item itemvalue="Kotlin.com.kotlin.simple.simple2.Simple2MainKt" />
-      <item itemvalue="Application.SamMain" />
+      <item itemvalue="Kotlin.com.kotlin.simple.simple3.Simple3MainKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SamMain" />
+        <item itemvalue="Kotlin.com.kotlin.simple.simple3.Simple3MainKt" />
         <item itemvalue="Kotlin.com.kotlin.simple.simple2.Simple2MainKt" />
+        <item itemvalue="Application.SamMain" />
         <item itemvalue="Kotlin.com.kotlin.simple.KotlinMainKt" />
         <item itemvalue="Application.Simple2JavaMain" />
-        <item itemvalue="Application.JavaMain" />
       </list>
     </recent_temporary>
   </component>
@@ -270,20 +331,20 @@
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18506752" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18625894" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329927" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329927" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2759124" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4988086" weight="0.5912409" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4988086" weight="0.18832117" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119144" side_tool="true" weight="0.329927" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.329927" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.329927" />
@@ -297,73 +358,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/library/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/library/settings.gradle" />
-    <entry file="file://$PROJECT_DIR$/.idea/gradle.xml" />
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/HashCode.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/String.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Comparable.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
-          <folding>
-            <element signature="e#2628#2629#0" expanded="true" />
-            <element signature="e#2998#2999#0" expanded="true" />
-            <element signature="e#3042#3043#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Objects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2988">
-          <caret line="203" column="19" selection-start-line="203" selection-start-column="19" selection-end-line="203" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="201" column="44" lean-forward="true" selection-start-line="201" selection-start-column="44" selection-end-line="201" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Number.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Array.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -617,34 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Standard.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="83" column="24" selection-start-line="83" selection-start-column="24" selection-end-line="83" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple2/Simple2Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple2/ClassFiles.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="172" lean-forward="true" selection-start-line="172" selection-end-line="172" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple2/InterfaceFiles.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="954">
-          <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/JavaMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -652,15 +618,129 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple2/Simple2Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple2/InterfaceFiles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple2/ClassFiles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="965">
+          <caret line="147" column="5" lean-forward="true" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/Control3.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="84" column="24" lean-forward="true" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/AdornFiles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Tuples.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/DataClassFiles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="71" column="27" lean-forward="true" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Primitives.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="1003" column="19" selection-start-line="1003" selection-start-column="19" selection-end-line="1003" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple2/SamMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="450">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/OnViewListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/Simple3JavaMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/SealedClassFiles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/NestedClassFiles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/EnumClassFiles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#35#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/Simple3Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/kotlin/simple/simple3/InlineClassFiles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
