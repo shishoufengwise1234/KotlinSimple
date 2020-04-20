@@ -1,6 +1,5 @@
 package com.kotlin.simple.simple2
 
-import com.sun.xml.internal.xsom.impl.ForeignAttributesImpl
 
 /**
  *
