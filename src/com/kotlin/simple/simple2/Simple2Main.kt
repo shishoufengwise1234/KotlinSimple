@@ -1,6 +1,5 @@
 package com.kotlin.simple.simple2
 
-import com.sun.org.apache.bcel.internal.generic.NEW
 
 fun main(args:Array<String>){
 
