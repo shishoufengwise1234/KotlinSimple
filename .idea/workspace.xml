@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8b3850-0fff-4632-8305-625470c7c1a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple4/Simple4JavaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple4/Simple4Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple4/SimpleSwap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinSimpleCodes/META-INF/KotlinSimpleCodes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinSimpleCodes/META-INF/KotlinSimpleCodes.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/simple/simple2/DataStructure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple2/DataStructure.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kotlin/simple/simple2/Simple2Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple2/Simple2Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +30,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
   </component>
   <component name="ProjectId" id="1amy3Ppwr5Do0ARKQ47Kb5hAmTW" />
   <component name="ProjectLevelVcsManager">
@@ -67,7 +63,7 @@
       <recent name="$PROJECT_DIR$/src/com/kotlin/simple/simple1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Simple2JavaMain">
+  <component name="RunManager" selected="Kotlin.com.kotlin.simple.simple4.Simple4MainKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -84,14 +80,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SamMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.simple.simple2.SamMain" />
-      <module name="KotlinSimpleCodes" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.kotlin.simple.simple4.Simple4MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinSimpleCodes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.simple.simple4.Simple4MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -168,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SamMain" />
       <item itemvalue="Kotlin.com.kotlin.simple.simple2.Simple2MainKt" />
       <item itemvalue="Kotlin.com.kotlin.simple.simple3.Simple3MainKt" />
       <item itemvalue="Application.JavaMain" />
       <item itemvalue="Application.Simple2JavaMain" />
+      <item itemvalue="Kotlin.com.kotlin.simple.simple4.Simple4MainKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.com.kotlin.simple.simple4.Simple4MainKt" />
         <item itemvalue="Application.Simple2JavaMain" />
         <item itemvalue="Application.JavaMain" />
         <item itemvalue="Kotlin.com.kotlin.simple.simple3.Simple3MainKt" />
         <item itemvalue="Kotlin.com.kotlin.simple.simple2.Simple2MainKt" />
-        <item itemvalue="Application.SamMain" />
       </list>
     </recent_temporary>
   </component>
@@ -214,26 +215,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1587354736804" />
+    <state x="734" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1587384693242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="734" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587384693242" />
     <state x="761" y="342" key="FileChooserDialogImpl" timestamp="1587355576239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="342" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587355576239" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587355949219">
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1587388081392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587355949219" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587355949219">
+    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587388081392" />
+    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1587388081392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587355949219" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587355949219">
+    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587388081392" />
+    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1587388081392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587355949219" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587355949219">
+    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587388081392" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1587388081392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587355949219" />
+    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587388081392" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1587355609203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
