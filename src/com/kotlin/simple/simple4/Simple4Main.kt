@@ -1,7 +1,15 @@
 package com.kotlin.simple.simple4
 
+import java.util.*
+
 
 fun main(array: Array<String>){
+
+    // 生成随机值
+//    val random = Random()
+//    for (i in 1..50 step 3){
+//        print(" value = ${random.nextInt(i)}")
+//    }
 
     println("array = $array")
 
