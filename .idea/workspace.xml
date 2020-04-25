@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c8b3850-0fff-4632-8305-625470c7c1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple4/Simple4JavaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple4/Simple4Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple4/SimpleSwap.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinSimpleCodes/META-INF/KotlinSimpleCodes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinSimpleCodes/META-INF/KotlinSimpleCodes.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/simple/simple4/Simple4Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/simple/simple4/Simple4Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,10 +166,10 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.kotlin.simple.simple2.Simple2MainKt" />
-      <item itemvalue="Kotlin.com.kotlin.simple.simple3.Simple3MainKt" />
       <item itemvalue="Application.JavaMain" />
       <item itemvalue="Application.Simple2JavaMain" />
+      <item itemvalue="Kotlin.com.kotlin.simple.simple2.Simple2MainKt" />
+      <item itemvalue="Kotlin.com.kotlin.simple.simple3.Simple3MainKt" />
       <item itemvalue="Kotlin.com.kotlin.simple.simple4.Simple4MainKt" />
     </list>
     <recent_temporary>
@@ -223,29 +220,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="761" y="342" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587355576239" />
-    <state width="1877" height="207" key="GridCell.Tab.0.bottom" timestamp="1587388081392">
+    <state width="1877" height="328" key="GridCell.Tab.0.bottom" timestamp="1587532157009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587388081392" />
-    <state width="1877" height="207" key="GridCell.Tab.0.center" timestamp="1587388081392">
+    <state width="1877" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587532157009" />
+    <state width="1877" height="328" key="GridCell.Tab.0.center" timestamp="1587532157009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587388081392" />
-    <state width="1877" height="207" key="GridCell.Tab.0.left" timestamp="1587388081392">
+    <state width="1877" height="328" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587532157009" />
+    <state width="1877" height="328" key="GridCell.Tab.0.left" timestamp="1587532157009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587388081392" />
-    <state width="1877" height="207" key="GridCell.Tab.0.right" timestamp="1587388081392">
+    <state width="1877" height="328" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587532157009" />
+    <state width="1877" height="328" key="GridCell.Tab.0.right" timestamp="1587532157009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587388081392" />
+    <state width="1877" height="328" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587532157009" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1587355609203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587355609203" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587354870359">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1587531875833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587354870359" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587531875833" />
   </component>
 </project>
