@@ -5,7 +5,7 @@ import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import javax.xml.bind.JAXBElement
 
-fun main(){
+suspend fun main(){
 
 
 //    testScope()
@@ -19,6 +19,13 @@ fun main(){
 
 
     //测试协程的取消和超时
-    testJobCancel()
+//    testJobCancel()
+
+//    val startMode = ScopeStartMode()
+//    startMode.testDefault()
+//    startMode.testLazy()
+//    startMode.testAtomic()
+
+    testErrorCoroutine()
 
 }
