@@ -23,8 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c8b3850-0fff-4632-8305-625470c7c1a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/clazz/TestKotlinClassMain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kotlin/simple/utils/UtilsMain.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinSimpleCodes/META-INF/KotlinSimpleCodes.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinSimpleCodes/META-INF/KotlinSimpleCodes.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/simple/KotlinMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/simple/KotlinMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/simple/collection/CollectMain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/simple/collection/CollectMain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kotlin/simple/collection/ListSimple.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kotlin/simple/collection/ListSimple.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +46,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -84,7 +88,7 @@
       <recent name="$PROJECT_DIR$/src/com/kotlin/simple/simple1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TestKotlinClassMainKt">
+  <component name="RunManager" selected="Kotlin.UtilsMainKt">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -111,13 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KotlinMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.simple.KotlinMainKt" />
-      <module name="KotlinSimpleCodes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SynerMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kotlin.simple.syner.SynerMainKt" />
       <module name="KotlinSimpleCodes" />
@@ -132,8 +129,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kotlin.simple.simple4.Simple4MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kotlin.simple.simple4.Simple4MainKt" />
+    <configuration name="TimeTestMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.simple.TimeTestMainKt" />
+      <module name="KotlinSimpleCodes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kotlin.simple.utils.UtilsMainKt" />
       <module name="KotlinSimpleCodes" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,19 +162,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.KotlinMainKt" />
-      <item itemvalue="Kotlin.SynerMainKt" />
-      <item itemvalue="Kotlin.com.kotlin.simple.simple4.Simple4MainKt" />
       <item itemvalue="Kotlin.CollectMainKt" />
+      <item itemvalue="Kotlin.SynerMainKt" />
       <item itemvalue="Kotlin.TestKotlinClassMainKt" />
+      <item itemvalue="Kotlin.TimeTestMainKt" />
+      <item itemvalue="Kotlin.UtilsMainKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.TestKotlinClassMainKt" />
+        <item itemvalue="Kotlin.UtilsMainKt" />
+        <item itemvalue="Kotlin.TimeTestMainKt" />
         <item itemvalue="Kotlin.CollectMainKt" />
+        <item itemvalue="Kotlin.TestKotlinClassMainKt" />
         <item itemvalue="Kotlin.SynerMainKt" />
-        <item itemvalue="Kotlin.KotlinMainKt" />
-        <item itemvalue="Kotlin.com.kotlin.simple.simple4.Simple4MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -199,76 +203,6 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-794" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1601282963389">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state x="-794" y="176" key="#com.intellij.ide.util.MemberChooser/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1601282963389" />
-    <state width="1878" height="311" key="GridCell.Tab.0.bottom" timestamp="1602572775855">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.bottom/-1920.-64.1920.1057/0.23.1536.937@-1920.-64.1920.1057" timestamp="1600829564434" />
-    <state width="1878" height="311" key="GridCell.Tab.0.bottom/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1602572775855" />
-    <state width="1878" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1600947854365" />
-    <state width="1878" height="311" key="GridCell.Tab.0.center" timestamp="1602572775853">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.center/-1920.-64.1920.1057/0.23.1536.937@-1920.-64.1920.1057" timestamp="1600829564433" />
-    <state width="1878" height="311" key="GridCell.Tab.0.center/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1602572775853" />
-    <state width="1878" height="156" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1600947854364" />
-    <state width="1878" height="311" key="GridCell.Tab.0.left" timestamp="1602572775852">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.left/-1920.-64.1920.1057/0.23.1536.937@-1920.-64.1920.1057" timestamp="1600829564433" />
-    <state width="1878" height="311" key="GridCell.Tab.0.left/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1602572775852" />
-    <state width="1878" height="156" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1600947854363" />
-    <state width="1878" height="311" key="GridCell.Tab.0.right" timestamp="1602572775853">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state width="1256" height="208" key="GridCell.Tab.0.right/-1920.-64.1920.1057/0.23.1536.937@-1920.-64.1920.1057" timestamp="1600829564434" />
-    <state width="1878" height="311" key="GridCell.Tab.0.right/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1602572775853" />
-    <state width="1878" height="156" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1600947854364" />
-    <state width="1126" height="97" key="GridCell.Tab.1.bottom" timestamp="1601283962484">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state width="1126" height="97" key="GridCell.Tab.1.bottom/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1601283962484" />
-    <state width="1126" height="97" key="GridCell.Tab.1.center" timestamp="1601283962483">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state width="1126" height="97" key="GridCell.Tab.1.center/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1601283962483" />
-    <state width="1126" height="97" key="GridCell.Tab.1.left" timestamp="1601283962483">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state width="1126" height="97" key="GridCell.Tab.1.left/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1601283962483" />
-    <state width="1126" height="97" key="GridCell.Tab.1.right" timestamp="1601283962484">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state width="1126" height="97" key="GridCell.Tab.1.right/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1601283962484" />
-    <state x="-1225" y="162" key="RollbackChangesDialog" timestamp="1600768990803">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state x="-1225" y="162" key="RollbackChangesDialog/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1600768990803" />
-    <state x="-1530" y="36" key="SettingsEditor" timestamp="1600769667286">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state x="-1530" y="36" key="SettingsEditor/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1600769667286" />
-    <state x="-641" y="203" width="540" height="524" key="StructurePopup" timestamp="1600781419939">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state x="-641" y="203" width="540" height="524" key="StructurePopup/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1600781419939" />
-    <state x="-1270" y="358" width="645" height="241" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1600769299409">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state x="-1270" y="358" width="645" height="241" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1600769299409" />
-    <state x="-1018" y="189" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601283870314">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state x="-1018" y="189" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1601283870314" />
-    <state x="-706" y="154" width="670" height="676" key="search.everywhere.popup" timestamp="1601282319553">
-      <screen x="-1920" y="-87" width="1920" height="1080" />
-    </state>
-    <state x="-706" y="154" width="670" height="676" key="search.everywhere.popup/-1920.-87.1920.1080/0.0.1536.960@-1920.-87.1920.1080" timestamp="1601282319553" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
