@@ -1,10 +1,10 @@
 package com.kotlin.simple
 
 // 主函数 无入参
-fun main(){
-
-    println("Hello Kotlin")
-}
+//fun main(){
+//
+//    println("Hello Kotlin")
+//}
 
 
 
